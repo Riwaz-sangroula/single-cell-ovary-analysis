@@ -63,3 +63,23 @@ Biological interpretation
 ## Status
 
 This project is currently in development as part of my graduate training in bioinformatics.
+
+## Results
+
+### UMAP Clustering
+
+The UMAP visualization shows transcriptionally distinct cell populations identified during the single-cell RNA-seq workflow.
+
+![UMAP clustering](figures/umap_clusters.png)
+
+### PCA Elbow Plot
+
+The elbow plot was used to examine the contribution of principal components during dimensionality reduction.
+
+![PCA elbow plot](figures/pca_elbow_plot.png)
+
+
+
+
+
+
